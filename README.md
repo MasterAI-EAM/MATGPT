@@ -13,6 +13,7 @@ The instructions of code:
 - regression_test.py: code for runing test of MDP regression task.
 - sii_evaluate.ipynb: code for evaluating SII results.
 - regression_evaluate.py: code for evaluating MDP regression results.
+- update.csv: updated part of the FAIR dataset.
 
 
 ## Data Format
