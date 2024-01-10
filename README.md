@@ -1,4 +1,4 @@
-This is the directory for paper "Empowering Materials Science with Large Language Models: End-to-End Perovskite Dataset Construction and Discovery", which presents a new natural language processing (NLP) task called structured information inference (SII) to address the complexities of information extraction at the device level in material science. This project is part of the whole DARWIN plan. The original data of this project is from https://www.nature.com/articles/s41560-021-00941-3.
+This is the directory for paper "Large Language Models Applied to Solar Cell Dataset Construction and Performance Prediction", which presents a new natural language processing (NLP) task called structured information inference (SII) to address the complexities of information extraction at the device level in material science. This project is part of the whole DARWIN plan. The original data of this project is from https://www.nature.com/articles/s41560-021-00941-3.
 
 The instructions of code:
 
